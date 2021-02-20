@@ -217,12 +217,12 @@ if [ -e $bin/dolce ]; then
   if [ -d $conf_dir/dolce ]; then
     clear
     echo "$logo"
-    echo " \033[00mdolce \033[01;32minstalled successfully !!"
-    echo " \033[01;32mtype \033[00m'dolce -h'\033[01;32m for more.\033[00m"
+    echo " Doolce Library Installed Successfully !!"
+    echo " type [dolcee -h] For Help."
   else
     clear
     echo "$logo"
-    echo " \033[01;31mSorry \033[00m: dolce \033[01;31mis not installed !!"
-    echo " \033[01;32mPlease try again\033[00m"
+    echo "Sorry Dolce Library Is Not Installed !!"
+    echo "Please Try Again"
   fi
 fi
