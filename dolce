@@ -837,14 +837,13 @@ update() {
 about() {
   clear
   echo "$logo"
-  echo " \033[01;33mdolce library \033[01;31mv0.1\033[00m"
   echo " 
                       [+] INFORMATION [+]
  ------------------------------------------------------
     Author     Mohamed Abdelwaged
     Coder      Abdelrahman Mohsen [Riddle]
     Name       Dolce Tools Library
-    Version    Beta Verson
+    Version    V.1
     Date       20/02/2021 
     Telegram   t.me/termux_HD
     By All Love Form Dolce Team!!

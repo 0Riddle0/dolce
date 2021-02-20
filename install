@@ -133,9 +133,9 @@ fi
 # setup process
 clear
 echo "$logo"
-echo "\033[01;32m Installing .... \033[00m"
+echo "#-Installing .... "
 sleep 1
-echo "\033[01;33m Running setup .... \033[00m"
+echo "#-Running setup .... "
 sleep 1
 
 # installing dependency
